@@ -5,7 +5,7 @@
  * Copyright(c) 2014-2015 Douglas Christopher Wilson
  * MIT Licensed
  */
-
+*/ editor
 'use strict';
 
 module.exports = require('./lib/express');
